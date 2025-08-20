@@ -1,6 +1,6 @@
 # Master Tailwind Layouts: Grid, Flex, and Responsiveness Explained
 
-Read the full tutorial [here]().
+Read the full tutorial [here](https://www.djamware.com/post/68a537349717a015ed391a59/master-tailwind-layouts-grid-flex-and-responsiveness-explained).
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
